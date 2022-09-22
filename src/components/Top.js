@@ -6,7 +6,7 @@ import i_am from "../imgs/I.jpg";
 import github from "../imgs/github.png";
 import linkdin from "../imgs/linkdin.png";
 
-export default function Main()
+export default function TopSite()
 {
     return (
 

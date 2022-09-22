@@ -1,7 +1,8 @@
 import React from "react";
 import styles from "./css/Main.css";
-import Top from './Top';
+import TopSite from './Top';
 import BodySite from './BodySite';
+import Footer from './Footer';
 
 export default function Main()
 {
@@ -9,8 +10,10 @@ export default function Main()
 
         <div id="Main" className="Main" style={styles.main}>
             <div id="main" className="main">
-                <Top />
+                
+                <TopSite />
                 <BodySite />
+                <Footer />
                 
             </div>
         </div>

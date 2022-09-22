@@ -1,8 +1,11 @@
 import React from "react";
 import styles from "./css/BodySite.css";
+import AboutMe from './AboutMe';
+import Skills from "./Skills";
+import Projects from "./Projects";
 
 
-export default function Main()
+export default function BodySite()
 {
     return (
 
@@ -10,7 +13,9 @@ export default function Main()
             <div id="bodysite" className="bodysite" style={styles.bodysite}>
                <div className="container">
                     <div className="row">
-                        <h1>sdnsidnsuidsudnudn</h1>
+                        <AboutMe />
+                        <Skills />
+                        <Projects />
                     </div>
                 </div>
             </div>
