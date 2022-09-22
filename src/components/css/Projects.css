@@ -1,8 +1,17 @@
-
-@media (min-width: 1200px) 
-{ 
-.pro 
+.card 
 {
-    margin-left: 150px;;
+    width: 100%;
 }
+
+@media (min-width: 1150px) 
+{ 
+    .cardProject
+    {
+        margin-left: 30%;
+    }
+    .textProject
+    {
+        margin-left: 33%;
+     
+    }
 }
