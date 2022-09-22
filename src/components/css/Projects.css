@@ -1,16 +1,8 @@
 
-@media (min-width: 600px) 
+@media (min-width: 1200px) 
 { 
-    .projects 
-    {
-        width: 100%;
-    }
-}
-.projects 
+.pro 
 {
-    width: 100%;
+    margin-left: 150px;;
 }
-
-.personal 
-{
 }
