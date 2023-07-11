@@ -22,7 +22,7 @@ export default function AboutMe()
                    flask, django, c, shell script, linux, windows,  e pentest de forma geral. 
                    Já estudei outras várias linguagens como:  Assembly, cobol, c++, java, dart, 
                    ruby, R e algumas outras. Amo tecnologia e tudo que está relacionado a ela. Além disso sou o criador de algumas ferramentas 
-                   de software livre. Entre elas: chameleonPY, PYBash, PID, KillerQueen e algumas outras.
+                   de software livre. Entre elas: chameleonPY, PYBash, PID, KillerQueen e algumas outras. Amo escrever, jogar, estudar e ler.
                 </p>
             </div>
         </div>
